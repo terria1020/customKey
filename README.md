@@ -17,4 +17,6 @@ Hotstrings 기능을 사용 가능해 and를 입력 시 &&가, or을 입려 시 
 [미작성]
 카라비너 프로그램을 이용하여 사용
 
+## 매핑 구현 
+
 ![image](https://user-images.githubusercontent.com/38485612/101178123-f42ee480-368b-11eb-92a3-39305bdcc3b9.png)
