@@ -1,3 +1,3 @@
 !#/bin/bash
 
-xmodmap -pke ~/.orgMap
+xmodmap -pke > ~/.orgMap
